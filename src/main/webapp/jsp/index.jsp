@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Welcome Page</title>
 </head>
 <body>
 <h1>index PAGE  inside Webapp JSP </h1>
